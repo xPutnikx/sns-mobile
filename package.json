@@ -14,9 +14,5 @@
   "main" : "lib/interface",
   "author": "Evan Shortiss",
   "license": "MIT",
-  "keywords": ["sns", "amazon", "aws", "apns", "gcm", "push", "notification", "simple notification service"],
-  "dependencies": {
-    "async": "0.2.10",
-    "aws-sdk": "latest"
-  }
+  "keywords": ["sns", "amazon", "aws", "apns", "gcm", "push", "notification", "simple notification service"]
 }
